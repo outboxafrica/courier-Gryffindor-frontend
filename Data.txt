@@ -1,0 +1,5 @@
+- restrict admin pages access
+- order details customer - Done
+- add to cart and remove from cart buttons =
+- wish list list - Done
+- filter items by category - done
